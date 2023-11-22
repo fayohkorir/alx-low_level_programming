@@ -4,6 +4,7 @@
 #define HOLBERTON_H
 
 int _putchar(char c);
+void puts2(char *str);
 
 #endif /* HOLBERTON_H */
 
